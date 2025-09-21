@@ -107,29 +107,4 @@ python scripts/evaluate.py --robot franka --task "pick up cup"
 * [HuBE paper](https://arxiv.org/html/2508.19002v1) – contextual & morphology-aware control
 * [LOGOS Robotics Lab](https://logos-robotics-lab.github.io)
 
----
 
-## 🤝 Contributing
-
-PRs and issues welcome — please open discussions for:
-
-* new datasets / embodiments
-* integration with additional VLM backends
-* evaluation protocols
-
----
-
-## 📄 License
-
-MIT (or your choice). Cite this repo and [HuBE](https://arxiv.org/html/2508.19002v1) if you use the methodology.
-
-````
-
----
-
-✅ Copy this entire block to `README.md`.  
-Now:
-- The ASCII diagram is enclosed in ```text … ``` with blank lines above and below — no breakage.  
-- The colon typo after “Robotics” is removed.  
-- Code fences for layout & commands are consistent.
-````
